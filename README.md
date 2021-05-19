@@ -18,8 +18,6 @@
 
 This is the **Readme** file that I am trying to learn how the *Markdown* works. 
 
-## Some other features
 
- ´#´ '#' "#" git 
 
     
